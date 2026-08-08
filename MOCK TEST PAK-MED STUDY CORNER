@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PAK-MED PDF LIBRARY | MDCAT</title>
+
+<style>
+*{
+  box-sizing:border-box;
+}
+
+body{
+  margin:0;
+  font-family:Arial,Helvetica,sans-serif;
+  background:#f3f7fb;
+  color:#172033;
+}
+
+.header{
+  background:linear-gradient(135deg,#082b5c,#087f5b);
+  color:white;
+  text-align:center;
+  padding:30px 15px;
+}
+
+.header h1{
+  margin:0;
+  font-size:30px;
+  font-weight:800;
+}
+
+.header p{
+  margin:10px 0 0;
+  font-size:15px;
+}
+
+.container{
+  max-width:750px;
+  margin:25px auto;
+  padding:0 15px;
+}
+
+.intro{
+  background:white;
+  padding:18px;
+  border-radius:14px;
+  box-shadow:0 4px 15px rgba(0,0,0,.08);
+  margin-bottom:20px;
+  text-align:center;
+}
+
+.card{
+  background:white;
+  margin:16px 0;
+  padding:20px;
+  border-radius:15px;
+  box-shadow:0 4px 15px rgba(0,0,0,.08);
+  border:1px solid #e3eaf2;
+}
+
+.badge{
+  display:inline-block;
+  background:#e8f7ef;
+  color:#087f5b;
+  padding:5px 10px;
+  border-radius:20px;
+  font-size:12px;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+
+.card h2{
+  margin:5px 0 8px;
+  font-size:19px;
+}
+
+.card p{
+  color:#667085;
+  font-size:14px;
+  margin-bottom:16px;
+}
+
+.btn{
+  display:inline-block;
+  background:#087f5b;
+  color:white;
+  text-decoration:none;
+  padding:11px 20px;
+  border-radius:9px;
+  font-weight:bold;
+}
+
+.btn:hover{
+  opacity:.9;
+}
+
+.footer{
+  text-align:center;
+  padding:25px 15px;
+  color:#667085;
+  font-size:13px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+  <h1>📚 PAK-MED PDF LIBRARY</h1>
+  <p>Free MDCAT Mock Tests & Practice Papers</p>
+</div>
+
+<div class="container">
+
+  <div class="intro">
+    <h2>PAK-MED STUDY CORNER MDCAT</h2>
+    <p>Free educational resources for MDCAT preparation.</p>
+  </div>
+
+  <!-- PDF 1 -->
+
+  <div class="card">
+    <span class="badge">PRACTICE TEST</span>
+
+    <h2>📄 PMDC Practice Test</h2>
+
+    <p>Free MDCAT practice test PDF</p>
+
+    <a class="btn"
+       href="https://raw.githubusercontent.com/pakmedstudycorner/PAK-MED-STUDY-CORNER-/8c270bb499248d8ed91906333e351a4ce28bf232/PMDC%20PRACTICE%20TEST%20BY%20PAK-MED%20STUDY%20CORNER%20MDCAT.pdf"
+       target="_blank"
+       rel="noopener">
+       📖 VIEW PDF
+    </a>
+  </div>
+
+
+  <!-- PDF 2 -->
+
+  <div class="card">
+    <span class="badge">MOCK TEST</span>
+
+    <h2>📄 MDCAT Mock Test 2</h2>
+
+    <p>Free MDCAT mock test PDF</p>
+
+    <a class="btn"
+       href="https://raw.githubusercontent.com/pakmedstudycorner/PAK-MED-STUDY-CORNER-/8c270bb499248d8ed91906333e351a4ce28bf232/MDCAT%20MOCK%20TEST%20BY%20PAK-MED%20STUDY%20CORNER%20MDCAT%20TEST%202.pdf"
+       target="_blank"
+       rel="noopener">
+       📖 VIEW PDF
+    </a>
+  </div>
+
+
+  <!-- PDF 3 -->
+
+  <div class="card">
+    <span class="badge">MOCK TEST</span>
+
+    <h2>📄 MDCAT Mock Test 3</h2>
+
+    <p>Free MDCAT mock test PDF</p>
+
+    <a class="btn"
+       href="https://raw.githubusercontent.com/pakmedstudycorner/PAK-MED-STUDY-CORNER-/8c270bb499248d8ed91906333e351a4ce28bf232/MDCAT%20MOCK%20TEST%203%20BY%20STUDY%20CORNER%20MDCAT%20TEAM.pdf"
+       target="_blank"
+       rel="noopener">
+       📖 VIEW PDF
+    </a>
+  </div>
+
+
+  <!-- PDF 4 -->
+
+  <div class="card">
+    <span class="badge">MOCK TEST</span>
+
+    <h2>📄 MDCAT Mock Test 4</h2>
+
+    <p>Free MDCAT mock test PDF</p>
+
+    <a class="btn"
+       href="https://raw.githubusercontent.com/pakmedstudycorner/PAK-MED-STUDY-CORNER-/8c270bb499248d8ed91906333e351a4ce28bf232/MDCAT%20MOCK%20TEST%204%20BY%20PAK-MED%20STUDY%20CORNER%20MDCAT.pdf"
+       target="_blank"
+       rel="noopener">
+       📖 VIEW PDF
+    </a>
+  </div>
+
+</div>
+
+<div class="footer">
+  © 2026 PAK-MED STUDY CORNER
+  <br>
+  Free MDCAT Educational Resources
+</div>
+
+</body>
+</html>
