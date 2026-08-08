@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PAK-MED PDF Library</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f1f5f9;
+}
+.header{
+    background:#073b4c;
+    color:white;
+    text-align:center;
+    padding:25px 15px;
+}
+.header h1{
+    margin:0;
+    font-size:28px;
+}
+.header p{
+    margin:8px 0 0;
+}
+.container{
+    max-width:700px;
+    margin:25px auto;
+    padding:0 15px;
+}
+.card{
+    background:white;
+    margin:15px 0;
+    padding:18px;
+    border-radius:12px;
+    box-shadow:0 3px 10px #0002;
+}
+.card h3{
+    margin:0 0 12px;
+}
+.btn{
+    display:inline-block;
+    background:#087f5b;
+    color:white;
+    padding:10px 18px;
+    border-radius:8px;
+    text-decoration:none;
+    margin-right:6px;
+}
+.download{
+    background:#1565c0;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+<h1>📚 PAK-MED PDF LIBRARY</h1>
+<p>MDCAT Notes, Mock Tests & Practice Papers</p>
+</div>
+
+<div class="container">
+
+<div class="card">
+<h3>📄 MDCAT MOCK TEST 3</h3>
+<a class="btn" href="PDF-LINK-1" target="_blank">VIEW PDF</a>
+</div>
+
+<div class="card">
+<h3>📄 MDCAT MOCK TEST 4</h3>
+<a class="btn" href="PDF-LINK-2" target="_blank">VIEW PDF</a>
+</div>
+
+<div class="card">
+<h3>📄 MDCAT MOCK TEST</h3>
+<a class="btn" href="PDF-LINK-3" target="_blank">VIEW PDF</a>
+</div>
+
+<div class="card">
+<h3>📄 PMDC PRACTICE TEST</h3>
+<a class="btn" href="PDF-LINK-4" target="_blank">VIEW PDF</a>
+</div>
+
+</div>
+
+</body>
+</html>
